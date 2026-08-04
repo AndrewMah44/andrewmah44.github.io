@@ -1,17 +1,14 @@
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "Andrew Mah",
     "label": "Scientist",
     "image": "",
-    "email": "einstein@example.com",
-    "phone": "(912) 123-4567",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "andrew.mah44@gmail.com",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "postalCode": "NY 10010",
+      "city": "New York",
       "countryCode": "US",
-      "region": "California"
+      "region": "New York"
     },
     "profiles": []
   },
