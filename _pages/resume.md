@@ -6,4 +6,22 @@ nav: true
 nav_order: 5
 ---
 
-# Test
+## Experience
+
+### Flatiron Research Fellow
+#### Center for Computational Neuroscience, The Flatiron Institute. New York, NY
+#### Jan. 2025 - Present
+
+* Co-derived theoretical bounds on the error of linear recurrent networks approximating Bayesian filtering in Hidden Markov models.
+* Validated the theoretical predictions by training linear recurrent networks on 230 randomly generated and adversarial hidden Markov models using custom JAX and Slurm pipelines on GPU clusters.
+* Identified a low-dimensional hidden-state drift associated with failures of length generalization and demonstrated that removing the drift restores long-sequence performance.
+* Helped organize a Neuro-AI research subgroup of up to 10 researchers, organizing project discussions, technical presentations, and collaborations across neuroscience and machine learning.
+
+### Graduate Research Scientist
+#### Center for Neural Science, New York University. New York, NY
+#### June 2019 - Dec. 2024
+* Led behavioral, computational, and neural studies of how animals infer hidden task states during reward-guided decision-making, resulting in two first-author publications.
+
+* Developed standardized MATLAB and MySQL software for processing multimodal behavioral and neural data, achieving adoption by 11+ lab members and supporting analyses in 6+ peer-reviewed publications.
+
+* Awarded a competitive National Institute of Mental Health F31 predoctoral fellowship supporting research on hidden-state inference in rodents.
