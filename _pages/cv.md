@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /cv/
+permalink: /cv_depreciated/
 title: CV
 nav: true
 nav_order: 5
