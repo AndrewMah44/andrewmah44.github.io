@@ -5,8 +5,10 @@ title: CV
 nav: true
 nav_order: 5
 ---
-[Download Resume](./assets/pdf/mah_2020.pdf)
+[Download Resume](mah_2020.pdf)
 ## Experience
+
+---
 
 ### Flatiron Research Fellow
 #### Center for Computational Neuroscience, The Flatiron Institute. New York, NY
