@@ -5,7 +5,7 @@ title: CV
 nav: true
 nav_order: 5
 ---
-
+[Download Resume](./assets/pdf/mah_2020.pdf)
 ## Experience
 
 ### Flatiron Research Fellow
