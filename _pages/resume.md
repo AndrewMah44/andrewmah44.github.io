@@ -48,6 +48,9 @@ Thesis: Hidden State Inference Modulates Reward Learning but Not Striatal Dopami
 ##### Sept. 2014 -- May 2018
 
 ## Techinical Skills
+
+----
+
 * **Programming**: Python, SQL, MATLAB
 * **Machine Learning**: JAX, Equinox, Optax, scikit-learn
 * **Scientific Compputing**: NumPy, SciPy, pandas, Linux, Slurm, Git, GPU computing
