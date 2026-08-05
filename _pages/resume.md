@@ -24,14 +24,8 @@ nav_order: 4
 ##### Center for Neural Science, New York University. New York, NY
 ##### June 2019 - Dec. 2024
 * Led behavioral, computational, and neural studies of how animals infer hidden task states during reward-guided decision-making, resulting in two first-author publications.
-
 * Developed standardized MATLAB and MySQL software for processing multimodal behavioral and neural data, achieving adoption by 11+ lab members and supporting analyses in 6+ peer-reviewed publications.
-
 * Awarded a competitive National Institute of Mental Health F31 predoctoral fellowship supporting research on hidden-state inference in rodents.
-
-## Publications
-
-----
 
 
 ## Education
@@ -39,13 +33,16 @@ nav_order: 4
 ----
 
 #### New York University
-##### _Ph.D., Neural Science_
-##### Aug. 2018 - Dec. 2024
+_Ph.D., Neural Science_
+
+Aug. 2018 - Dec. 2024
+
 Thesis: Hidden State Inference Modulates Reward Learning but Not Striatal Dopamine Release.
 
 #### Washington and Lee University
-##### _B.S. with Honors, Neuroscience and Mathematics, magna cum laude_
-##### Sept. 2014 -- May 2018
+_B.S. with Honors, Neuroscience and Mathematics, magna cum laude_
+
+Sept. 2014 -- May 2018
 
 ## Techinical Skills
 
