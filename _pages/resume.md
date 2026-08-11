@@ -32,33 +32,33 @@ nav_order: 4
 ----
 
 Toporikova, N., Cheng, W., Qian, L., **Mah, A.**, Clarke, T., 
-Jones, T. C., Moore, D., \& Ayoub, N. A. (_In Press_). 
+Jones, T. C., Moore, D., & Ayoub, N. A. (_In Press_). 
 Phase response curve and RNA-sequencing demonstrate spiders’ sensitivity to light and pinpoint candidate light-responsive genes. 
-\textit{PLOS ONE}.
+_PLOS ONE_.
 
 Schiereck, S. S., Pérez-Rivera, D. T., **Mah, A.**, DeMaegd, M. L., 
-Hocker, D., Ward, R. M., Savin, C., \& Constantinople, C. M. (2026). 
+Hocker, D., Ward, R. M., Savin, C., & Constantinople, C. M. (2026). 
 The orbitofrontal cortex updates beliefs for state inference. 
 _Neuron_, 114(3), 507--520.
 DOI: 10.1016/j.neuron.2025.10.024 
 
 Golden, C. E., Martin, A. C., Kaur, D., **Mah, A.**, Levy, D. H., 
-Yamaguchi, T., Lasek, A. W., Lin, D., Aoki, C., \& Constantinople, C. M. (2025). 
+Yamaguchi, T., Lasek, A. W., Lin, D., Aoki, C., & Constantinople, C. M. (2025). 
 Estrogen modulates reward prediction errors and reinforcement learning. 
 _Nature Neuroscience_, 1--13.
 DOI: 10.1038/s41593-025-02104-z 
 
-**Mah, A.**, Golden, C. E., \& Constantinople, C. M. (2024). 
+**Mah, A.**, Golden, C. E., & Constantinople, C. M. (2024). 
 Dopamine transients encode reward prediction errors independent of learning rates. 
 _Cell Reports_, 43(10).
 DOI: 10.1016/j.celrep.2024.114840
 
-**Mah, A.**, Schiereck, S. S., Bossio, V., \& Constantinople, C. M. (2023). 
+**Mah, A.**, Schiereck, S. S., Bossio, V., & Constantinople, C. M. (2023). 
 Distinct value computations support rapid sequential decisions. 
 _Nature Communications_, 14(1), 7573.
 DOI: 10.1038/s41467-023-43250-x
 
-**Mah, A.**, Ayoub, N., Toporikova, N., Jones, T. C., \& Moore, D. (2020). 
+**Mah, A.**, Ayoub, N., Toporikova, N., Jones, T. C., & Moore, D. (2020). 
 Locomotor activity patterns in three spider species suggest relaxed selection 
 on endogenous circadian period and novel features of chronotype. 
 _Journal of Comparative Physiology A_, 206(4), 499--515. 
