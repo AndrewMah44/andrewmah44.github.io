@@ -106,10 +106,10 @@ _B.S. with Honors, Neuroscience and Mathematics, magna cum laude_
 
 Sept. 2014 -- May 2018
 
-## Techinical Skills
+## Technical Skills
 
 ----
 
 * **Programming**: Python, SQL, MATLAB
 * **Machine Learning**: JAX, Equinox, Optax, scikit-learn
-* **Scientific Compputing**: NumPy, SciPy, pandas, Linux, Slurm, Git, GPU computing
+* **Scientific Computing**: NumPy, SciPy, pandas, Linux, Slurm, Git, GPU computing
