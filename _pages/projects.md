@@ -4,7 +4,6 @@ title: projects2
 permalink: /projects2/
 description: A sample of relevant projects.
 nav: false
-nav_order: 3
 display_categories: [work, fun]
 horizontal: false
 ---
