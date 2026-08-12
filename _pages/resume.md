@@ -6,7 +6,7 @@ nav: true
 nav_order: 4
 ---
 
-[Download Resume](/assets/pdf/mah_2020.pdf)
+[Download CV](/assets/pdf/mah_cv.pdf)
 ## Experience
 
 ---
@@ -86,6 +86,10 @@ Poster.
 
 **Mah, A.**, Li Y., Constantinople, C. (2021). 
 Using neuromodulatory dynamics to arbitrate between distinct behavioral strategies. Society for Neuroscience Global Connectome: A Virtual Event. Poster
+
+**Mah, A.**, Ayoub, N., Jones T.C., Moore, D., Toporikova, N. (2017). Computational model of circadian rhythms predicts adaptive value of exceptionally short period spider clock via flexible entrainment. Society for Neuroscience. Poster.
+
+**Mah, A**, Ayoub, N., Vienneau-Hathaway, J. (2016) Do RTA-clade spiders possess the same suite of silk genes as orb-web weaving spiders? International Congress of Arachnology. Poster.
 
 ## Education
 
