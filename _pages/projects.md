@@ -21,8 +21,8 @@ Together with Joshua L. Pughe-Sanford, we derived bounds for the approximation e
 These results highlight an important caveat for model and task design: for certain problems, optimal filtering is approximately linear, so gains from more expressive architectures may be limited unless the task fundamentally requires nonlinear inference.
 
 #### Hidden-state inference in rodents
-While previous work has suggested that distinct decision-making systems (which can roughly map onto model-free and model-based decision making) broadly influence choices, it is unclear how exactly these systems interact on short timescales, both across and within single trials. 
+Animals can estimate the value of their environment in different ways: by relying on recent experience or by inferring the underlying state of the world. How these computations interact, and whether they can guide different decisions on the timescale of a single trial, was an open question.
 
-Using a temporal waging task in rats, which provided a continuous readout of a rat’s valuation of different water rewards, we found that these decision-making systems influence distinct actions. the decision on when to start a trial depended on a model-free system, but once a trial started, the model-based system decided how much time and effort to invest for a given reward.
+Using a temporal wagering task in rats, we obtained a continuous readout of how animals valued different water rewards. We found that rats used distinct value computations for decisions made only seconds apart. Their decision of when to initiate a trial depended primarily on a retrospective estimate based on recent rewards, whereas their decision of how long to wait for a reward relied on inference about the environment's hidden reward state.
 
-This result combined high-throughput data collection with careful behavioral modeling to understand how decision-making systems interact on fine timescales, an important first step to uncovering the underlying neural circuits. 
+By combining high-throughput behavioral data from hundreds of animals with computational modeling, this work showed that distinct decision-making computations can rapidly alternate within individual trials. These results provide a framework for investigating how different neural circuits implement and coordinate value computations on fine timescales.
