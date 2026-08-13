@@ -18,6 +18,8 @@ This suggests that length-generalization failures can arise not because a model 
 
 #### Presentations
 
+----
+
 ## Linear approximations to hidden-Markov model filtering 
 
 In certain cases, for example in the canonical Mess3 HMM, linear models are capable of representing complex belief states in their hidden activations nearly identically to more complex models like transformers and state-space models. This raised a basic question: when can Bayesian filtering be accurately approximated within a linear recurrent model?
@@ -43,6 +45,8 @@ _Advances in Neural Information Processing Systems_.
 #### Presentations
 
 **Mah, A.**, Williams, A.H. (2025) Linear Recurrent Networks Approximate Optimal Filtering in Hidden Markov Models. UniReps Workshop, Neural Information Processing Systems. San Diego, California. Poster
+
+----
 
 ## Hidden-state inference in rodents
 Animals can estimate the value of their environment in different ways: by relying on recent experience or by inferring the underlying state of the world. How these computations interact, and whether they can guide different decisions on the timescale of a single trial, was an open question.
