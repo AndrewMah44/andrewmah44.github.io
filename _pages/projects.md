@@ -26,9 +26,23 @@ Together with Joshua L. Pughe-Sanford, we derived bounds for the approximation e
 
 These results highlight an important caveat for model and task design: for certain problems, optimal filtering is approximately linear, so gains from more expressive architectures may be limited unless the task fundamentally requires nonlinear inference.
 
+
 #### Publications
 
+**Mah, A.** , Pughe-Sanford, J.L, , Harvey, S.E., and Williams, A. (Under Review) 
+Linear approximations to HMM filtering
+_Advances in Neural Information Processing Systems_.
+
+<a href="/assets/pdf/toporikova_2026_prepreint.pdf">
+  <button type="button">PDF</button>
+</a>
+<a href="/assets/pdf/toporikova_2026_prepreint.pdf">
+  <button type="button">Code</button>
+</a>
+
 #### Presentations
+
+**Mah, A.**, Williams, A.H. (2025) Linear Recurrent Networks Approximate Optimal Filtering in Hidden Markov Models. UniReps Workshop, Neural Information Processing Systems. San Diego, California. Poster
 
 ## Hidden-state inference in rodents
 Animals can estimate the value of their environment in different ways: by relying on recent experience or by inferring the underlying state of the world. How these computations interact, and whether they can guide different decisions on the timescale of a single trial, was an open question.
@@ -39,4 +53,39 @@ By combining high-throughput behavioral data from hundreds of animals with compu
 
 #### Publications
 
+**Mah, A.**, Golden, C. E., & Constantinople, C. M. (2024). Dopamine transients encode reward prediction errors independent of learning rates. _Cell Reports_, 43(10). DOI: 10.1016/j.celrep.2024.114840
+
+<a href="/assets/pdf/mah_2024.pdf">
+  <button type="button">PDF</button>
+</a>
+<a href="/assets/pdf/mah_2020.pdf">
+  <button type="button">Code</button>
+</a>
+
+**Mah, A.**, Schiereck, S. S., Bossio, V., & Constantinople, C. M. (2023). Distinct value computations support rapid sequential decisions. _Nature Communications_, 14(1), 7573. DOI: 10.1038/s41467-023-43250-x
+
+<a href="/assets/pdf/mah_2023.pdf">
+  <button type="button">PDF</button>
+</a>
+<a href="/assets/pdf/mah_2020.pdf">
+  <button type="button">Code</button>
+</a>
+
 #### Presentations
+
+**Mah, A.**, Golden, C.E.M., Jang, H., Constantinople, C.M. (2024) Mesolimbic dopamine encodes reward prediction errors independent of learning rates. COSYNE. Lisbon, Portugal. Poster
+
+**Mah, A.**, Golden, C.E.M., Constantinople, C.M. (2023) Neural Instantiation of a Dynamic Learning Rate.
+Society for Neuroscience. Washington, D.C. Poster.
+
+**Mah, A.**, Constantinople, C.M. (2022) Optimists and realists: heterogeneous priors in rats performing hidden state inference. 
+COSYNE. 
+Lisbon, Portugal. 
+Poster.
+
+**Mah, A.**, Schiereck, S., Bossio, V., Constantinople, C. (2021). Rats infer hidden-states in a temporal wagering task. 
+Society for Neuroscience. 
+Poster.
+
+**Mah, A.**, Li Y., Constantinople, C. (2021). 
+Using neuromodulatory dynamics to arbitrate between distinct behavioral strategies. Society for Neuroscience Global Connectome: A Virtual Event. Poster
