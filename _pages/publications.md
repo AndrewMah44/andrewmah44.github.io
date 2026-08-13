@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: publications
 description: publications by categories in reversed chronological order.
-nav: true
+nav: false
 nav_order: 2
 ---
 
@@ -37,7 +37,6 @@ Golden, C. E., Martin, A. C., Kaur, D., **Mah, A.**, Levy, D. H., Yamaguchi, T.,
 <a href="/assets/pdf/golden_2025.pdf">
   <button type="button">PDF</button>
 </a>
-
 
 **Mah, A.**, Golden, C. E., & Constantinople, C. M. (2024). Dopamine transients encode reward prediction errors independent of learning rates. _Cell Reports_, 43(10). DOI: 10.1016/j.celrep.2024.114840
 
