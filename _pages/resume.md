@@ -6,6 +6,23 @@ nav: true
 ---
 
 [Download CV](/assets/pdf/mah_cv.pdf)
+
+## Education
+
+----
+
+#### New York University
+_Ph.D., Neural Science_
+
+Aug. 2018 - Dec. 2024
+
+Thesis: Hidden State Inference Modulates Reward Learning but Not Striatal Dopamine Release.
+
+#### Washington and Lee University
+_B.S. with Honors, Neuroscience and Mathematics, magna cum laude_
+
+Sept. 2014 -- May 2018
+
 ## Experience
 
 ---
@@ -67,6 +84,7 @@ DOI: 10.1007/s00359-020-01412-y
 ## Presentations
 
 ----
+
 **Mah, A.**, Williams, A.H. (2025) Linear Recurrent Networks Approximate Optimal Filtering in Hidden Markov Models. UniReps Workshop, Neural Information Processing Systems. San Diego, California. Poster
 
 **Mah, A.**, Golden, C.E.M., Jang, H., Constantinople, C.M. (2024) Mesolimbic dopamine encodes reward prediction errors independent of learning rates. COSYNE. Lisbon, Portugal. Poster
@@ -90,21 +108,21 @@ Using neuromodulatory dynamics to arbitrate between distinct behavioral strategi
 
 **Mah, A**, Ayoub, N., Vienneau-Hathaway, J. (2016) Do RTA-clade spiders possess the same suite of silk genes as orb-web weaving spiders? International Congress of Arachnology. Poster.
 
-## Education
+## Grants and Fellowships
 
 ----
 
-#### New York University
-_Ph.D., Neural Science_
+Ruth L. Kirschstein National Research Service Award (NRSA) Predoctoral Fellowship, NIMH. 2023 - 2025
 
-Aug. 2018 - Dec. 2024
+2T32MH019524 – Training Systems and Integrative Neuroscience. 2021 - 2023
 
-Thesis: Hidden State Inference Modulates Reward Learning but Not Striatal Dopamine Release.
+5T90DA043219 – Training Program in Computational Neuroscience. 2019 - 2021
 
-#### Washington and Lee University
-_B.S. with Honors, Neuroscience and Mathematics, magna cum laude_
+Henry Mitchell McCracken Fellowship, New York University. 2018 - 2021
 
-Sept. 2014 -- May 2018
+The Jarrard Award for Distinguished Neuroscience Research. 2018
+
+Taylor Scholarship for Excellence in Mathematics. 2017
 
 ## Technical Skills
 
