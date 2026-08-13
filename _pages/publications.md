@@ -6,20 +6,23 @@ description: publications by categories in reversed chronological order.
 nav: true
 nav_order: 2
 ---
+
+### Publications
+
 **Mah, A.** , Pughe-Sanford, J.L, , Harvey, S.E., and Williams, A. (Under Review) 
 Linear approximations to HMM filtering
 _Advances in Neural Information Processing Systems_.
 
-<a href="/assets/pdf/toporikova_2026_prepreint.pdf.pdf">
+<a href="/assets/pdf/toporikova_2026_prepreint.pdf">
   <button type="button">PDF</button>
 </a>
-<a href="/assets/pdf/toporikova_2026_prepreint.pdf.pdf">
+<a href="/assets/pdf/toporikova_2026_prepreint.pdf">
   <button type="button">Code</button>
 </a>
 
 Toporikova, N., Cheng, W., Qian, L., **Mah, A.**, Clarke, T., Jones, T. C., Moore, D., & Ayoub, N. A. (In Press). Phase response curve and RNA-sequencing demonstrate spiders’ sensitivity to light and pinpoint candidate light-responsive genes. _PLOS ONE_.
 
-<a href="/assets/pdf/toporikova_2026_prepreint.pdf.pdf">
+<a href="/assets/pdf/toporikova_2026_prepreint.pdf">
   <button type="button">PDF</button>
 </a>
 
