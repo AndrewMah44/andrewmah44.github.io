@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "<a href='https://github.com/AndrewMah44'>GitHub</a> | <a href='https://scholar.google.com/citations?user=i-TJXyUAAAAJ&hl=en&authuser=2'>Google Scholar</a> | <a href='https://www.linkedin.com/in/andrew-mah-98171128a/'>LinkedIn</a> | <a href='mailto:andrew.mah44@gmail.com'> Email</a> | <a href='/assets/pdf/mah_cv.pdf'> CV</a>"
+subtitle: "<a href='https://github.com/AndrewMah44'>GitHub</a> | <a href='https://scholar.google.com/citations?user=i-TJXyUAAAAJ&hl=en&authuser=2'>Google Scholar</a> | <a href='https://www.linkedin.com/in/andrew-mah-98171128a/'>LinkedIn</a> | <a href='mailto:andrew.mah44@gmail.com'> Email</a> | <a href='/assets/pdf/mah_cv.pdf' target='_blank'> CV</a>"
 
 profile:
   align: right
