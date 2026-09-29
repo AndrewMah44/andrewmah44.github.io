@@ -29,24 +29,20 @@ latest_posts:
 
 ## About Me 
 
-I am a Flatiron Research Fellow working with <a href='https://neurostatslab.org/'>Alex Williams</a> at the <a href='https://www.simonsfoundation.org/flatiron/center-for-computational-neuroscience/'>Center for Computational Neuroscience</a>. Briefly, I study how neural networks keep track of things they can't observe directly, and how they use these internal "beliefs" to make decisions. My work sits at the intersection of mechanistic interpretability, dynamical systems, and computational neuroscience, and draws on large-scale modeling experiments in JAX.
+I am a Flatiron Research Fellow working with <a href='https://neurostatslab.org/'>Alex Williams</a> at the <a href='https://www.simonsfoundation.org/flatiron/center-for-computational-neuroscience/'>Center for Computational Neuroscience</a>. I study how neural networks represent and use information to perform inference, and how their architectures and tasks shape the mechanisms they learn. My research focuses on simple, analytically tractable models that allow us to connect network dynamics to computation and understand when and why models succeed or fail.
 
-Specifically, I use tools from mechanistic interpretability to study how recurrent neural networks represent latent variables, often through low-dimensional sufficient statistics, to perform probabilistic inference. 
+My work combines mechanistic interpretability, dynamical systems, and computational neuroscience. I use mathematical analyses, model training, and targeted interventions to understand what information networks represent and how they use it. During my PhD at New York University with <a href='https://constantinoplelab.com/'>Christine Constantinople</a>, I studied how latent-state uncertainty shapes learning and decision-making in the brain. I now bring this perspective to artificial networks, with a focus on probabilistic inference and sequence processing.
 
-Neuroscience and mechanistic interpretability share a common goal: understanding how a complex system, a biological brain or an artificial neural network, processes information to guide behavior. They also increasingly share a common toolkit. During my Ph.D. at New York University with <a href='https://constantinoplelab.com/'>Christine Constantinople</a>, I studied how dopamine neurons represent distinct sources of latent state uncertainty to modulate learning, and helped design targeted neural perturbations to test how the circuits underlying latent-state inference give rise to behavior. Representational analyses and causal perturbations, which allow us to understand not just what a system does, but how it does it, are exactly the tools that are now central to interpretability research.
-
-My current work applies this same toolkit to artificial systems. With representational and decoding analyses, I can identify what information is store in the network's hidden units, and with targeted perturbations, I can understand how that information is used.
-
-I'm looking to apply this experience in research scientist roles focused on interpretable AI, sequence models, and probabilistic reasoning.
+I am seeking research scientist roles focused on interpretable AI, sequence models, and probabilistic reasoning.
 
 ## Selected Publications
 
-**Mah, A.** , Pughe-Sanford, J.L, , Harvey, S.E., and Williams, A. (Under Review) 
+**Mah, A.**, Pughe-Sanford, J.L., Harvey, S.E., & Williams, A. (2026) 
 Linear approximations to HMM filtering
 _Advances in Neural Information Processing Systems_.
 
 <div style="margin-left: 16px;">
-  <p>Summary: Using a combination of theoretical analyses and model fitting, we demonstate that a class of canonical HMMs in mechanistic interpretability reseach are well-approximated by linear dynamical systems.
+  <p>Summary: We show that linear dynamical systems can closely approximate Bayesian filtering in a class of hidden Markov models, including canonical examples from mechanistic interpretability research. We empirically validate these on linear RNNs trained across a variety of randomly-generated and adverserial HMMs.
   </p>
 </div>
 
@@ -57,10 +53,10 @@ _Advances in Neural Information Processing Systems_.
   <button type="button">Code</button>
 </a>
 
-**Mah, A.**, Golden, C. E., & Constantinople, C. M. (2024). Dopamine transients encode reward prediction errors independent of learning rates. _Cell Reports_, 43(10). DOI: 10.1016/j.celrep.2024.114840
+**Mah, A.**, Golden, C.E., & Constantinople, C.M. (2024). Dopamine transients encode reward prediction errors independent of learning rates. _Cell Reports_, 43(10). DOI: 10.1016/j.celrep.2024.114840
 
 <div style="margin-left: 16px;">
-  <p>Summary: We found that dopamine release in rats reflects distinct types of latent state uncertainty.
+  <p>Summary: Animals adjust their behavior in response to uncertainty about the environment’s overall reward rate, but dopamine reward prediction errors are unaffected by this uncertainty. However, these signals do reflect uncertainty about reward timing, suggesting that distinct forms of uncertainty differentially influence behavior and dopamine signaling.
   </p>
 </div>
 
@@ -72,10 +68,10 @@ _Advances in Neural Information Processing Systems_.
 </a>
 
 
-**Mah, A.**, Schiereck, S. S., Bossio, V., & Constantinople, C. M. (2023). Distinct value computations support rapid sequential decisions. _Nature Communications_, 14(1), 7573. DOI: 10.1038/s41467-023-43250-x
+**Mah, A.**, Schiereck, S.S., Bossio, V., & Constantinople, C.M. (2023). Distinct value computations support rapid sequential decisions. _Nature Communications_, 14(1), 7573. DOI: 10.1038/s41467-023-43250-x
 
 <div style="margin-left: 16px;">
-  <p>Summary: Using a combination of reinfocement learning modeling and careful behavioral analyses of a dataset consisting of >100 rats, we found that rats use hidden state inference for some behaviors but not others.
+  <p>Summary: Using reinforcement learning models and behavioral data from more than 100 rats, we find that animals use hidden-state inference to guide some behaviors but not others, revealing distinct computations underlying sequential decisions.
   </p>
 </div>
 
