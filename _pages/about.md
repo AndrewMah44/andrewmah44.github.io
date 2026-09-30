@@ -37,7 +37,7 @@ I am seeking research scientist roles focused on interpretable AI, sequence mode
 
 ## Selected Publications
 
-**Mah, A.**, Pughe-Sanford, J.L., Harvey, S.E., & Williams, A. (2026) 
+**Mah, A.**\*, Pughe-Sanford, J.L.\*, Harvey, S.E., & Williams, A. (2026) 
 Linear approximations to HMM filtering
 _Advances in Neural Information Processing Systems_.
 
