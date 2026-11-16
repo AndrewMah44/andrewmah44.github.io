@@ -5,6 +5,22 @@ title: CV
 nav: true
 ---
 
+<p><a href="/assets/pdf/mah_cv.pdf" download>Download CV (PDF)</a></p>
+
+<iframe
+  src="/assets/pdf/mah_cv.pdf"
+  title="Andrew Mah CV"
+  style="width: 100%; height: 90vh; border: 0;">
+  <p>Your browser can't display PDFs. <a href="/assets/pdf/mah_cv.pdf">Download the CV instead.</a></p>
+</iframe>
+
+<!-- ---
+layout: page
+permalink: /cv/
+title: CV
+nav: true
+---
+
 [Download CV](/assets/pdf/mah_cv.pdf)
 
 ## Education
@@ -33,7 +49,7 @@ Sept. 2014 -- May 2018
 
 * Co-derived theoretical bounds on the error of linear recurrent networks approximating Bayesian filtering in Hidden Markov models.
 * Validated the theoretical predictions by training linear recurrent networks on 230 randomly generated and adversarial hidden Markov models using custom JAX and Slurm pipelines on GPU clusters.
-* Identified a low-dimensional hidden-state drift associated with failures of length generalization and developed tools for stabilizing model representations, maintaining high performance for sequence up to 100x training length.
+* Identified a low-dimensional hidden-state drift associated with failures of length generalization and developed tools for stabilizing model representations, maintaining high performance for sequence up to 100x the training length.
 * Helped organize a Neuro-AI research subgroup of up to 10 researchers, organizing project discussions, technical presentations, and collaborations across neuroscience and machine learning.
 
 #### Graduate Research Scientist
@@ -131,5 +147,5 @@ Taylor Scholarship for Excellence in Mathematics. 2017
 ----
 
 * **Programming**: Python, SQL, MATLAB
-* **Machine Learning**: JAX, Equinox, Optax, scikit-learn
-* **Scientific Computing**: NumPy, SciPy, pandas, Linux, Slurm, Git, GPU computing
+* **Machine Learning**: PyTorch, JAX, Equinox, Optax, scikit-learn
+* **Scientific Computing**: NumPy, SciPy, pandas, Linux, Slurm, Git, GPU computing -->
