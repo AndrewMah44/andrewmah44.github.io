@@ -33,11 +33,11 @@ I’m a Flatiron Research Fellow at the Flatiron Institute [Center for Computati
 
 Two recent results:
 
-> **Why state-space models fail to length-generalize.** Across seeds, linear RNNs + MLP readout trained on bounded-depth Dyck languages varied widely in how well they extrapolated. I traced the failures to a slow drift mode in the linear recurrence that gradually pushes the representation out of the region where the readout is accurate. Clamping that mode at inference time, with no retraining, restores performance at up to 100x the training length.
+* **Why state-space models fail to length-generalize.** Across seeds, linear RNNs + MLP readout trained on bounded-depth Dyck languages varied widely in how well they extrapolated. I traced the failures to a slow drift mode in the linear recurrence that gradually pushes the representation out of the region where the readout is accurate. Clamping that mode at inference time, with no retraining, restores performance at up to 100x the training length.
 
-> **When linear models are enough.** We proved error bounds showing that forward filters on a broad class of hidden Markov models can be well-approximted by linear recurrent models, which we validated the bounds on >900 randomly generated and adversarial HMMs (NeurIPS 2026). Finally, we provide easily computable heuristics to determine when a problem requires nonlinear inference.
+* **When linear models are enough.** We proved error bounds showing that forward filters on a broad class of hidden Markov models can be well-approximted by linear recurrent models, which we validated the bounds on >900 randomly generated and adversarial HMMs (NeurIPS 2026). Finally, we provide easily computable heuristics to determine when a problem requires nonlinear inference.
 
-These questions are inspired by my Ph.D. work at NYU [Christine Constantinople](https://constantinoplelab.com/), where I studied how uncertainty about hidden states shapes learning and decision-making in the brain. I now ask what artificial networks infer about hidden structure and how they use it. I've traded rats for JAX and behavioral rigs for GPU clusters, but the underlying questions remain the same.
+These questions are inspired by my Ph.D. work at NYU [Christine Constantinople](https://constantinoplelab.com/), where I studied how uncertainty about hidden states shapes learning and decision-making in the brain. I now ask what artificial networks infer about hidden structure and how they use it. While I've traded rats for JAX and behavioral rigs for GPU clusters, the underlying questions remain the same.
 
 I’m seeking research scientist roles in interpretable AI, sequence models, and probabilistic reasoning.
 
