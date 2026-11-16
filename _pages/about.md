@@ -37,7 +37,7 @@ Two recent results:
 
 * **When linear models are enough.** We proved error bounds showing that forward filters on a broad class of hidden Markov models can be well-approximted by linear recurrent models, which we validated the bounds on >900 randomly generated and adversarial HMMs (NeurIPS 2026). Finally, we provide easily computable heuristics to determine when a problem requires nonlinear inference.
 
-These questions are inspired by my Ph.D. work at NYU [Christine Constantinople](https://constantinoplelab.com/), where I studied how uncertainty about hidden states shapes learning and decision-making in the brain. I now ask what artificial networks infer about hidden structure and how they use it. While I've traded rats for JAX and behavioral rigs for GPU clusters, the underlying questions remain the same.
+These questions are inspired by my Ph.D. work at NYU with [Christine Constantinople](https://constantinoplelab.com/), where I studied how uncertainty about hidden states shapes learning and decision-making in the brain. I now ask what artificial networks infer about hidden structure and how they use it. So even though I've traded rats for JAX and behavioral rigs for GPU clusters, the underlying questions remain the same.
 
 I’m seeking research scientist roles in interpretable AI, sequence models, and probabilistic reasoning.
 
