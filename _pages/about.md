@@ -46,10 +46,10 @@ _Advances in Neural Information Processing Systems_.
   </p>
 </div>
 
-&emsp;<a href="/assets/pdf/toporikova_2026_prepreint.pdf">
+&emsp;<a href="/assets/pdf/NeurIPS_2026_Linear_HMMs.pdf">
   <button type="button">PDF</button>
 </a>
-<a href="/assets/pdf/toporikova_2026_prepreint.pdf">
+<a href="https://github.com/AndrewMah44/linear-hmms">
   <button type="button">Code</button>
 </a>
 
@@ -63,7 +63,7 @@ _Advances in Neural Information Processing Systems_.
 &emsp;<a href="/assets/pdf/mah_2024.pdf">
   <button type="button">PDF</button>
 </a>
-<a href="/assets/pdf/mah_2020.pdf">
+<a href="https://github.com/constantinoplelab/Mah2024_dynamic_learning_rate">
   <button type="button">Code</button>
 </a>
 
@@ -78,7 +78,7 @@ _Advances in Neural Information Processing Systems_.
 &emsp;<a href="/assets/pdf/mah_2023.pdf">
   <button type="button">PDF</button>
 </a>
-<a href="/assets/pdf/mah_2020.pdf">
+<a href="https://github.com/constantinoplelab/published/tree/main/rat_behavior">
   <button type="button">Code</button>
 </a>
 
