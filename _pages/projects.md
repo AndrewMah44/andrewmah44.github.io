@@ -15,8 +15,11 @@ I found that failures could be explained by a slow drift mode in the model's lin
 This suggests that length-generalization failures can arise not because a model has failed to learn the relevant computation, but because small errors in its recurrent dynamics accumulate outside the training horizon. Ongoing work asks whether this mechanistic insight can be used to develop training objectives that promote stable representations and more reliable length generalization.
 
 #### Publications
+**Mah, A.**, Williams, A.H. (2026) Representational Drift as a Mechanism of Length-Generalization Failure. Symmetry and Geometry in Neural Representations Workshop, Neural Information Processing Systems. (Extended Abstract).
 
-#### Presentations
+&emsp;<a href="/assets/pdf/Mah_NeurReps_2026-1.pdf">
+  <button type="button">PDF</button>
+</a>
 
 ----
 
@@ -31,20 +34,18 @@ These results highlight an important caveat for model and task design: for certa
 
 #### Publications
 
-**Mah, A.** , Pughe-Sanford, J.L, , Harvey, S.E., and Williams, A. (Under Review) 
+**Mah, A.** , Pughe-Sanford, J.L, , Harvey, S.E., and Williams, A. (2026) 
 Linear approximations to HMM filtering
 _Advances in Neural Information Processing Systems_.
 
-<a href="/assets/pdf/toporikova_2026_prepreint.pdf">
+&emsp;<a href="/assets/pdf/NeurIPS_2026_Linear_HMMs.pdf">
   <button type="button">PDF</button>
 </a>
-<a href="/assets/pdf/toporikova_2026_prepreint.pdf">
+<a href="https://github.com/AndrewMah44/linear-hmms">
   <button type="button">Code</button>
 </a>
 
-#### Presentations
-
-**Mah, A.**, Williams, A.H. (2025) Linear Recurrent Networks Approximate Optimal Filtering in Hidden Markov Models. UniReps Workshop, Neural Information Processing Systems. San Diego, California. Poster
+**Mah, A.**, Williams, A.H. (2025) Linear Recurrent Networks Approximate Optimal Filtering in Hidden Markov Models. UniReps Workshop, Neural Information Processing Systems. (Extended abstract).
 
 ----
 
@@ -59,19 +60,19 @@ By combining high-throughput behavioral data from hundreds of animals with compu
 
 **Mah, A.**, Golden, C. E., & Constantinople, C. M. (2024). Dopamine transients encode reward prediction errors independent of learning rates. _Cell Reports_, 43(10). DOI: 10.1016/j.celrep.2024.114840
 
-<a href="/assets/pdf/mah_2024.pdf">
+&emsp;<a href="/assets/pdf/mah_2024.pdf">
   <button type="button">PDF</button>
 </a>
-<a href="/assets/pdf/mah_2020.pdf">
+<a href="https://github.com/constantinoplelab/Mah2024_dynamic_learning_rate">
   <button type="button">Code</button>
 </a>
 
 **Mah, A.**, Schiereck, S. S., Bossio, V., & Constantinople, C. M. (2023). Distinct value computations support rapid sequential decisions. _Nature Communications_, 14(1), 7573. DOI: 10.1038/s41467-023-43250-x
 
-<a href="/assets/pdf/mah_2023.pdf">
+&emsp;<a href="/assets/pdf/mah_2023.pdf">
   <button type="button">PDF</button>
 </a>
-<a href="/assets/pdf/mah_2020.pdf">
+<a href="https://github.com/constantinoplelab/published/tree/main/rat_behavior">
   <button type="button">Code</button>
 </a>
 

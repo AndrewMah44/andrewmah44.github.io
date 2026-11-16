@@ -29,11 +29,17 @@ latest_posts:
 
 ## About Me 
 
-I am a Flatiron Research Fellow working with <a href='https://neurostatslab.org/'>Alex Williams</a> at the <a href='https://www.simonsfoundation.org/flatiron/center-for-computational-neuroscience/'>Center for Computational Neuroscience</a>. I study how neural networks represent and use information to perform inference, and how their architectures and tasks shape the mechanisms they learn. My research focuses on simple, analytically tractable models that allow us to connect network dynamics to computation and understand when and why models succeed or fail.
+I’m a Flatiron Research Fellow at the Flatiron Institute [Center for Computational Neuroscience](https://www.simonsfoundation.org/flatiron/computational-neuroscience/), working with [Alex Williams](https://neurostatslab.org/). I study how neural networks represent and use information to perform inference, using small, but surprisingly powerful, models that I can analyze fully.
 
-My work combines mechanistic interpretability, dynamical systems, and computational neuroscience. I use mathematical analyses, model training, and targeted interventions to understand what information networks represent and how they use it. During my PhD at New York University with <a href='https://constantinoplelab.com/'>Christine Constantinople</a>, I studied how latent-state uncertainty shapes learning and decision-making in the brain. I now bring this perspective to artificial networks, with a focus on probabilistic inference and sequence processing.
+Two recent results:
 
-I am seeking research scientist roles focused on interpretable AI, sequence models, and probabilistic reasoning.
+> **Why state-space models fail to length-generalize.** Across seeds, linear RNNs + MLP readout trained on bounded-depth Dyck languages varied widely in how well they extrapolated. I traced the failures to a slow drift mode in the linear recurrence that gradually pushes the representation out of the region where the readout is accurate. Clamping that mode at inference time, with no retraining, restores performance at up to 100x the training length.
+
+> **When linear models are enough.** We proved error bounds showing that forward filters on a broad class of hidden Markov models can be well-approximted by linear recurrent models, which we validated the bounds on >900 randomly generated and adversarial HMMs (NeurIPS 2026). Finally, we provide easily computable heuristics to determine when a problem requires nonlinear inference.
+
+These questions are inspired by my Ph.D. work at NYU [Christine Constantinople](https://constantinoplelab.com/), where I studied how uncertainty about hidden states shapes learning and decision-making in the brain. I now ask what artificial networks infer about hidden structure and how they use it. I've traded rats for JAX and behavioral rigs for GPU clusters, but the underlying questions remain the same.
+
+I’m seeking research scientist roles in interpretable AI, sequence models, and probabilistic reasoning.
 
 ## Selected Publications
 
@@ -41,10 +47,10 @@ I am seeking research scientist roles focused on interpretable AI, sequence mode
 Linear approximations to HMM filtering
 _Advances in Neural Information Processing Systems_.
 
-<div style="margin-left: 16px;">
+<!-- <div style="margin-left: 16px;">
   <p>Summary: We show that linear dynamical systems can closely approximate Bayesian filtering in a class of hidden Markov models, including canonical examples from mechanistic interpretability research. We empirically validate these on linear RNNs trained across a variety of randomly-generated and adverserial HMMs.
   </p>
-</div>
+</div> -->
 
 &emsp;<a href="/assets/pdf/NeurIPS_2026_Linear_HMMs.pdf">
   <button type="button">PDF</button>
@@ -55,10 +61,10 @@ _Advances in Neural Information Processing Systems_.
 
 **Mah, A.**, Golden, C.E., & Constantinople, C.M. (2024). Dopamine transients encode reward prediction errors independent of learning rates. _Cell Reports_, 43(10). DOI: 10.1016/j.celrep.2024.114840
 
-<div style="margin-left: 16px;">
+<!-- <div style="margin-left: 16px;">
   <p>Summary: Animals adjust their behavior in response to uncertainty about the environment’s overall reward rate, but dopamine reward prediction errors are unaffected by this uncertainty. However, these signals do reflect uncertainty about reward timing, suggesting that distinct forms of uncertainty differentially influence behavior and dopamine signaling.
   </p>
-</div>
+</div> -->
 
 &emsp;<a href="/assets/pdf/mah_2024.pdf">
   <button type="button">PDF</button>
@@ -70,10 +76,10 @@ _Advances in Neural Information Processing Systems_.
 
 **Mah, A.**, Schiereck, S.S., Bossio, V., & Constantinople, C.M. (2023). Distinct value computations support rapid sequential decisions. _Nature Communications_, 14(1), 7573. DOI: 10.1038/s41467-023-43250-x
 
-<div style="margin-left: 16px;">
+<!-- <div style="margin-left: 16px;">
   <p>Summary: Using reinforcement learning models and behavioral data from more than 100 rats, we find that animals use hidden-state inference to guide some behaviors but not others, revealing distinct computations underlying sequential decisions.
   </p>
-</div>
+</div> -->
 
 &emsp;<a href="/assets/pdf/mah_2023.pdf">
   <button type="button">PDF</button>
