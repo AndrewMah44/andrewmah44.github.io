@@ -46,9 +46,10 @@ Sept. 2014 -- May 2018
 ## Publications 
 
 ----
+**Mah, A.**\*, Pughe-Sanford, J.L.\*, Harvey, S.E., Williams, A.H. (2026) Linear approximations to HMM filtering. Advances in Neural Information Processing Systems. (* denotes equal contribution)
 
 Toporikova, N., Cheng, W., Qian, L., **Mah, A.**, Clarke, T., 
-Jones, T. C., Moore, D., & Ayoub, N. A. (_In Press_). 
+Jones, T. C., Moore, D., & Ayoub, N. A. (2026). 
 Phase response curve and RNA-sequencing demonstrate spiders’ sensitivity to light and pinpoint candidate light-responsive genes. 
 _PLOS ONE_.
 
@@ -84,6 +85,7 @@ DOI: 10.1007/s00359-020-01412-y
 ## Presentations
 
 ----
+**Mah, A.**, Williams, A.H. (2026) Representational Drift as a Mechanism of Length-Generalization Failure. Symmetry and Geometry in Neural Representations Workshop, Neural Information Processing Systems. Sydney, Australia. Poster
 
 **Mah, A.**, Williams, A.H. (2025) Linear Recurrent Networks Approximate Optimal Filtering in Hidden Markov Models. UniReps Workshop, Neural Information Processing Systems. San Diego, California. Poster
 
