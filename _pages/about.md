@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "<a href='https://github.com/AndrewMah44'>GitHub</a> | <a href='https://scholar.google.com/citations?user=i-TJXyUAAAAJ&hl=en'>Google Scholar</a> | <a href='https://www.linkedin.com/in/andrew-mah-98171128a/'>LinkedIn</a> | <a href='mailto:andrew.mah44@gmail.com'> Email</a> | <a href='/assets/pdf/mah_cv.pdf' target='_blank'> CV</a>"
+subtitle: "<a href='https://github.com/AndrewMah44'>GitHub</a> | <a href='https://scholar.google.com/citations?user=i-TJXyUAAAAJ&hl=en'>Google Scholar</a> | <a href='https://www.linkedin.com/in/andrew-mah-98171128a/'>LinkedIn</a> | <a href='mailto:andrew.mah44@gmail.com'> Email</a>" 
 description: Flatiron Research Fellow studying interpretability, sequence models, and probabilistic inference.
 
 profile:
@@ -34,7 +34,7 @@ I’m a Flatiron Research Fellow at the Flatiron Institute [Center for Computati
 
 Two recent results:
 
-* **Why a linear state-space model fails to length-generalize in hierarchical language task.** Across seeds, linear RNNs + MLP readout trained on bounded-depth Dyck languages varied widely in how well they extrapolated. I traced the failures to a slow drift mode in the linear recurrence that gradually pushes the representation out of the region where the readout is accurate. Clamping that mode at inference time, with no retraining, restores performance at up to 100x the training length.
+* **Why a linear state-space model fails to length-generalize in a hierarchical language task.** Across seeds, linear RNNs + MLP readout trained on bounded-depth Dyck languages varied widely in how well they extrapolated. I traced the failures to a slow drift mode in the linear recurrence that gradually pushes the representation out of the region where the readout is accurate. Clamping that mode at inference time, with no retraining, restores performance at up to 100x the training length.
 
 * **When linear models are enough.** We proved error bounds showing that forward filters on a broad class of hidden Markov models can be well approximted by linear recurrent models, and validated the bounds on 230 randomly generated and adversarial HMMs (NeurIPS 2026).  The bounds depend on easily computable properties of the HMM, which gives a practical check for when a task actually requires nonlinear inference.
 

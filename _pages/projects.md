@@ -10,7 +10,7 @@ nav: true
 
 Length generalization remains a central challenge for sequence models. I found that, across 50 random seeds, linear RNNs + MLP readout varied substantially in their ability to extrapolate on bounded-depth Dyck languages, a canonical testbed for hierarchical sequence processing. I sought to understand what distinguished the models that generalized from those that did not.
 
-I found that failures could be explained by a slow drift mode in the model's linear recurrent dynamics. Over long sequences, this mode gradually shifted the model's internal representation outside the region in which its learned readout was accurate. Clamping this drift mode at inference time, without retraining the model or otherwise modifying its hidden representation, was sufficient to restore performance sequence up to 100x the training length.
+I found that failures could be explained by a slow drift mode in the model's linear recurrent dynamics. Over long sequences, this mode gradually shifted the model's internal representation outside the region in which its learned readout was accurate. Clamping this drift mode at inference time, without retraining the model or otherwise modifying its hidden representation, was sufficient to restore performance on sequences up to 100x the training length.
 
 This suggests that length-generalization failures can arise not because a model has failed to learn the relevant computation, but because small errors in its recurrent dynamics accumulate outside the training horizon. Ongoing work asks whether this mechanistic insight apply to deeper models.
 
